@@ -2,4 +2,4 @@
 
 
 let name = 10;
-let go = 11;
+let go = "hello";
